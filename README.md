@@ -7,7 +7,7 @@
 [![Pod License](https://img.shields.io/dub/l/vibe-d.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 An animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.
-
+[pokefortress](http://www.pokefortress.com/)
 ![video](http://i.imgur.com/XOoq9mP.gif)
 
 ##Features
@@ -20,7 +20,7 @@ An animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.
 - [x] Allow to control memory usage by using factor 'memoryLimit'
 
 ## Installation
-
+[pokefortress](http://www.pokefortress.com/)
 #### CocoaPods
 You can use [CocoaPods](http://cocoapods.org/) to install `AImage` by adding it to your `Podfile`:
 
@@ -74,7 +74,7 @@ imageview.APlay();
 iamgeview.AStop();
 
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 ## Principles
 - [Here](https://wangjwchn.github.io/blog/Display-animated-image-on-iOS-device)
 
@@ -108,7 +108,7 @@ iamgeview.AStop();
 |AImage (noCache)	|20% ~ 49% [33%]    |6.6 ~ 8.3 [7.5]          |
 |APNGKit (Cache)				|1% ~ 42% [1%]      |95.6 ~ 95.6 [95.6]        |
 |APNGKit (noCache)			|1% ~ 26% [1%]      |95.9 ~ 95.9 [95.9]        |
-
+[pokefortress](http://www.pokefortress.com/)
 
 Measurement Factors:
 
@@ -122,6 +122,6 @@ Measurement Factors:
 
  - Raw data are [here](https://github.com/wangjwchn/BenchmarkImage).
 
- 
+ [pokefortress](http://www.pokefortress.com/)
 ##Licence
 AImage is released under the MIT license. See [LICENSE](https://github.com/wangjwchn/JWAnimatedImage/raw/master/LICENSE) for details.
